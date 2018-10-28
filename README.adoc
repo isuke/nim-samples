@@ -1,0 +1,16 @@
+:chapter-label:
+:icons: font
+:lang: en
+:sectanchors:
+:sectnums:
+:sectnumlevels: 1
+:source-highlighter: highlightjs
+:toc:
+:toclevels: 2
+
+:author: isuke
+:email: isuke770@gmail.com
+
+= Nim Samples
+
+Nim: 0.19.0
